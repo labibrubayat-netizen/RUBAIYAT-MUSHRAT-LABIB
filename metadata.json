@@ -1,0 +1,6 @@
+{
+  "name": "Academic Calendar",
+  "description": "Smart academic calendar for university students with class routines, countdowns, exam tracking, and semester overrides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
